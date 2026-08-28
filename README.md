@@ -1,8 +1,11 @@
 # Motswana Auto Electrical - Network Design Project
 
 **Student:** Musa Prince Sithoza
+
 **Student Number:** 45500207
+
 **Location:** Taung
+
 **Module:** CMG 325 - Computer Networks
 
 ## Project Overview
