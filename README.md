@@ -99,6 +99,15 @@ text
 | WAN 3 (Sales) | – | 10.1.3.0/30 | – |
 
 ---
+## Milestone 3: Final Evaluation ✅
+
+**Deliverables:**
+- **Packet Tracer File:** `Milestone3_Final/Motswana_Network_Final.pkt`
+- **Technical Report:** `Milestone3_Final/Technical_Report.pdf`
+- **Video Demonstration:** `Milestone3_Final/Video_Link.txt` (Google Drive link)
+
+**Summary:**
+The network is fully operational. All three departments communicate via OSPF, DHCP provides automatic IP assignment, and the assigned feature (Inter-VLAN Routing) is implemented and tested.
 
 ## Technologies Used
 
